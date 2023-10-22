@@ -42,7 +42,6 @@ yarn-error.log
 *.sass
 *.css.map
 *.js.map
-*.pot
 .sass-cache/
 .vscode/
 .DS_Store

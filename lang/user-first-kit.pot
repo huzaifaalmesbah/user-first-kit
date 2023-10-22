@@ -1,0 +1,87 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: User First Kit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-22 16:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4-RC1\n"
+"X-Domain: user-first-kit"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/huzaifaalmesbah/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/user-first-kit"
+msgstr ""
+
+#. Author of the plugin
+msgid "Huzaifa Al Mesbah"
+msgstr ""
+
+#: class-user-first-kit-plugin.php:79
+msgid "Permalink Settings"
+msgstr ""
+
+#: class-user-first-kit-plugin.php:107
+msgid "Remove Default \"Hello World\" Post and \"Sample Page\""
+msgstr ""
+
+#: class-user-first-kit-plugin.php:88
+msgid "Remove Default Plugins"
+msgstr ""
+
+#: class-user-first-kit-plugin.php:90
+msgid "Remove Default Plugins (Hello Dolly and Akismet)"
+msgstr ""
+
+#: class-user-first-kit-plugin.php:104
+msgid "Remove Default Posts and Pages"
+msgstr ""
+
+#: class-user-first-kit-plugin.php:95
+msgid "Remove Default Themes"
+msgstr ""
+
+#: class-user-first-kit-plugin.php:98
+msgid ""
+"Remove Default Themes (Twenty Twenty-One, Twenty Twenty-Two, Twenty Twenty "
+"Three)"
+msgstr ""
+
+#: class-user-first-kit-plugin.php:114
+msgid "Set All"
+msgstr ""
+
+#: class-user-first-kit-plugin.php:82
+msgid "Set Permalink Structure to Post Name"
+msgstr ""
+
+#: class-user-first-kit-plugin.php:48
+msgid "Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin helps you set permalink structure and remove default plugins, "
+"themes, posts, and pages."
+msgstr ""
+
+#. Parent menu slug (Tools).
+#. Name of the plugin
+#: class-user-first-kit-plugin.php:59 class-user-first-kit-plugin.php:60
+msgid "User First Kit"
+msgstr ""
+
+#: class-user-first-kit-plugin.php:76
+msgid "User First Kit Settings"
+msgstr ""
