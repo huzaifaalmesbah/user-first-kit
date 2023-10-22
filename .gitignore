@@ -1,0 +1,97 @@
+# Ignore core WordPress files
+wp-admin/
+wp-includes/
+wp-content/
+
+# Ignore configuration files
+wp-config.php
+wp-config-sample.php
+
+# Ignore cache and temporary files
+wp-content/advanced-cache.php
+wp-content/cache/
+wp-content/upgrades/
+wp-content/backup-db/
+wp-content/upgrade/
+wp-content/debug.log
+wp-content/.maintenance
+*.log
+
+# Ignore backup and development files
+*.bak
+*.swp
+*.tmp
+*.old
+
+# Ignore node_modules if you're using npm
+node_modules/
+
+# Ignore Composer files if you're using Composer
+vendor/
+
+# Ignore build and compiled files
+/build/
+/dist/
+/node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Ignore development tools and files
+*.scss
+*.sass
+*.css.map
+*.js.map
+*.pot
+.sass-cache/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Ignore any environment-specific config files
+.env
+.env.sample
+
+# Ignore IDE project files
+.idea/
+
+# Ignore user-specific files
+*.sublime-project
+*.sublime-workspace
+
+# Ignore deployment-related files
+.deploy/
+.deployconfig
+.deployignore
+
+# Ignore any local environment files
+local-config.php
+
+# Ignore backup and log files
+*.sql
+*.log
+*.sql.gz
+
+# Ignore OS generated files
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+Icon?
+*.DS_Store
+
+# Ignore custom files that you don't want to commit
+custom-file.txt
+
+# Ignore any other files and directories that are specific to your plugin
+# Add specific exclusions as needed
+
+# Ignore Composer autoloader if using Composer
+/vendor/autoload.php
+/vendor/composer
+
+# Ignore Node.js modules if using npm or yarn
+/node_modules
+
+# Ignore package-lock.json and yarn.lock if using npm or yarn
+/package-lock.json
+/yarn.lock
