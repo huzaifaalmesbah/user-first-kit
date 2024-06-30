@@ -1,6 +1,6 @@
 === User First Kit ===
 Contributors: huzaifaalmesbah, bosskhj
-Tags: default, plugins, themes, posts, pages, permalink
+Tags: default, plugins, themes, pages, permalink
 Requires at least: 5.6
 Tested up to: 6.5
 Requires PHP: 7.0
