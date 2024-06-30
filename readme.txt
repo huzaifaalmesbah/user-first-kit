@@ -8,6 +8,8 @@ Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
+This plugin helps you set permalink structure and remove default plugins, themes, posts, and pages.
+
 == Description ==
 
 User First Kit is a plugin that allows you to customize your WordPress installation by setting permalink structures, removing default plugins, themes, posts, and pages. With User First Kit, you can streamline your site's setup process and start with a clean slate.
@@ -35,13 +37,17 @@ After activating the plugin, go to the 'UFE' menu in your WordPress dashboard. T
 No, the removal of default content like plugins, themes, posts, and pages is irreversible. Make sure to back up your data before using this plugin.
 
 == Changelog ==
+= 1.0.1 =
+* Update Readme .
 
 = 1.0 =
 * Initial release.
 
 == Screenshots ==
 
-1. Screenshots of the plugin settings page and options.
+1. Screenshots of the plugin settings page and options. #1
+2. Screenshots of the plugin settings page with checked. #2
+2. Screenshots of the plugin settings page after actions. #3
 
 == Upgrade Notice ==
 
