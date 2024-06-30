@@ -10,7 +10,7 @@
  * Requires at least: 5.6
  * Tested up to: 6.3
  * Requires PHP: 7.0
- * Version: 1.0
+ * Version: 1.0.1
  *
  * @package User_Frist_Kit
  */
