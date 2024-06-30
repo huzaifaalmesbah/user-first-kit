@@ -1,8 +1,8 @@
 === User First Kit ===
 Contributors: huzaifaalmesbah, bosskhj
-Tags: permalink, default plugins, default themes, default posts, default pages
+Tags: default, plugins, themes, posts, pages, permalink
 Requires at least: 5.6
-Tested up to: 6.3
+Tested up to: 6.5
 Requires PHP: 7.0
 Stable tag: 1.0.1
 License: GPLv3 or later
@@ -30,7 +30,7 @@ Features:
 
 = How do I use this plugin? =
 
-After activating the plugin, go to the 'UFE' menu in your WordPress dashboard. There you can choose to set your permalink structure, remove default plugins, remove default themes and remove default page and post. Make sure to carefully review and backup your website before performing removal actions.
+After activating the plugin, go to the 'Tools' menu in your WordPress dashboard then click "User First Kit". There you can choose to set your permalink structure, remove default plugins, remove default themes and remove default page and post. Make sure to carefully review and backup your website before performing removal actions.
 
 = Can I undo the removal of default content? =
 
@@ -38,7 +38,7 @@ No, the removal of default content like plugins, themes, posts, and pages is irr
 
 == Changelog ==
 = 1.0.1 =
-* Update Readme .
+* Update Readme.
 
 = 1.0 =
 * Initial release.
