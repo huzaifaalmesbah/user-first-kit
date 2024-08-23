@@ -2,9 +2,9 @@
 Contributors: huzaifaalmesbah, bosskhj
 Tags: default, plugins, themes, pages, permalink
 Requires at least: 5.6
-Tested up to: 6.5
+Tested up to: 6.6.1
 Requires PHP: 7.0
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -37,6 +37,9 @@ After activating the plugin, go to the 'Tools' menu in your WordPress dashboard 
 No, the removal of default content like plugins, themes, posts, and pages is irreversible. Make sure to back up your data before using this plugin.
 
 == Changelog ==
+= 1.0.2 =
+* Version Update.
+
 = 1.0.1 =
 * Update Readme.
 

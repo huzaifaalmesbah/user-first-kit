@@ -8,9 +8,9 @@
  * Text Domain: user-first-kit
  * License: GPL v3
  * Requires at least: 5.6
- * Tested up to: 6.3
+ * Tested up to: 6.6.1
  * Requires PHP: 7.0
- * Version: 1.0.1
+ * Version: 1.0.2
  *
  * @package User_Frist_Kit
  */
